@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dat110-project3-startcode-master/ChordDHTPeer-Project3-Oppgave/ChordDHTPeer-Project3-Oppgave.iml" filepath="$PROJECT_DIR$/dat110-project3-startcode-master/ChordDHTPeer-Project3-Oppgave/ChordDHTPeer-Project3-Oppgave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dat110-project3-testing-master/ChordDHTPeer-Project3-UnitTests/ChordDHTPeer-Project3-UnitTests.iml" filepath="$PROJECT_DIR$/dat110-project3-testing-master/ChordDHTPeer-Project3-UnitTests/ChordDHTPeer-Project3-UnitTests.iml" />
+    </modules>
+  </component>
+</project>
